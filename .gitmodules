@@ -7,3 +7,9 @@
 [submodule "hardware/ogc_hw_rp2040_pico_w"]
 	path = hardware/ogc_hw_rp2040_pico_w
 	url = https://github.com/OGC-dustin/ogc_hw_rp2040_pico_w.git
+[submodule "software/applications/ogc_sw_app_demo_blink"]
+	path = software/applications/ogc_sw_app_demo_blink
+	url = https://github.com/OGC-dustin/ogc_sw_app_demo_blink.git
+[submodule "software/libraries/ogc_sw_lib_os_nrtps"]
+	path = software/libraries/ogc_sw_lib_os_nrtps
+	url = https://github.com/OGC-dustin/ogc_sw_lib_os_nrtps.git
