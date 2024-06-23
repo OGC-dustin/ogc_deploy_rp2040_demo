@@ -7,3 +7,6 @@
 [submodule "firmware/pico-sdk"]
 	path = firmware/pico-sdk
 	url = https://github.com/raspberrypi/pico-sdk.git
+[submodule "hardware/ogc_hw_rp2040_pico_w"]
+	path = hardware/ogc_hw_rp2040_pico_w
+	url = https://github.com/OGC-dustin/ogc_hw_rp2040_pico_w.git
