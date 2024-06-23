@@ -1,0 +1,9 @@
+[submodule "hardware/ogc_hw_deskpi_picomate"]
+	path = hardware/ogc_hw_deskpi_picomate
+	url = https://github.com/OGC-dustin/ogc_hw_deskpi_picomate.git
+[submodule "hardware/ogc_hw_rp_2040_pico_w"]
+	path = hardware/ogc_hw_rp_2040_pico_w
+	url = https://github.com/OGC-dustin/ogc_hw_rp_2040_pico_w.git
+[submodule "firmware/pico-sdk"]
+	path = firmware/pico-sdk
+	url = https://github.com/raspberrypi/pico-sdk.git
